@@ -26,8 +26,3 @@ DirectX programming book that discusses from getting started with DirectX compon
 <a href="https://andipublisher.com/produk-pemrograman-game-3d-dengan-directx">
 <img src="pemrograman-game-3d-dengan-directx.webp" width="200" alt="Pemrograman Game 3D dengan DirectX">
 </a>
-
-<p class="no-print">Images below shows what kind of 3D graphics demo applications built.
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a>
-</p>
