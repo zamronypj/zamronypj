@@ -1,6 +1,6 @@
 # Hi I am Zamrony 👋
 
-I am software developer who has interest web development, database and game development. [My online resume](https://zamronypj.github.io) if you want to hire me.
+I am software developer who has interest in web development, database and game development. [My online resume](https://zamronypj.github.io) if you want to hire me.
 
 - 🔭 I’m currently working on my personal project [Fano Framework](https://fanoframework.github.io), a web framework written with [Free Pascal](https://freepascal.org).
 - 🌱 I’m currently learning anything that interest me.
