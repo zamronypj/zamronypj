@@ -29,5 +29,5 @@ DirectX programming book that discusses from getting started with DirectX compon
 
 <p class="no-print">Images below shows what kind of 3D graphics demo applications built.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a>
 </p>
