@@ -1,4 +1,4 @@
-### Hi I am Zamrony 👋
+# Hi I am Zamrony 👋
 
 I am software developer who has interest web development, database and game development.
 
@@ -9,3 +9,23 @@ I am software developer who has interest web development, database and game deve
 - 💬 Ask me about Fano Framework
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamronypj.zamronypj)
+
+## My books
+
+### Panduan Lengkap Pemrograman Android
+
+Android programming book that explains various topics from getting started, creating basic layout view, store data in shared preferences and database operation with SQLite to more advanced topics such as working with 3D graphics with OpenGL ES, custom view, working with Bluetooth etc.
+
+![Panduan Lengkap Pemrograman Android](panduan-lengkap-pemrograman-android.jpg)
+
+
+### Pemrograman Game 3D dengan DirectX
+
+DirectX programming book that discusses from getting started with DirectX components, working with 3D graphics with Direct3D such as rendering 3D primitives. Reading game input device such keyboard, mouse, gamepad and joystick using DirectInput. Audio programming to play multiple sound effects and game music with DirectSound. Also discuss network programming with DirectPlay. Book also discusses terrain rendering and fog and shader programming.
+
+![Pemrograman Game 3D dengan DirectX](pemrograman-game-3d-dengan-directx.webp)
+
+<p class="no-print">Images below shows what kind of 3D graphics demo applications built.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
