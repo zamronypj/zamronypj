@@ -1,12 +1,21 @@
 # Hi I am Zamrony 👋
 
-I am software developer who has interest in web development, database and game development. [My online resume](https://zamronypj.github.io) if you want to hire me.
-
-- 🔭 I’m currently working on my personal project [Fano Framework](https://fanoframework.github.io), a web framework written with [Free Pascal](https://freepascal.org).
-- 🌱 I’m currently learning anything that interest me.
-- 🤔 I’m looking for help with Fano Framework
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamronypj.zamronypj)
+
+I am software developer who has interest in web development, database and game development. [My online resume](https://zamronypj.github.io) if you want to hire me.
+
+- 🔭 I’m working on my personal project [Fano Framework](https://fanoframework.github.io), a web framework written with [Free Pascal](https://freepascal.org). Developing this project, I am learning network and system programming in Linux, FreeBSD and Windows.
+- 🌱 I’m learning and trying to improve my English by writing proper documentation for [Fano Framework documentation](https://github.com/fanoframework/fanoframework.github.io).
+- 🤔 Ask me about Fano Framework. Sometime I answer question in StackOverflow like [this question](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272).
+- My day job is web developer. I use Laravel, Slim Framework, Express, AngularJs, vue.js, React.js, Gulp. I like Flexbox
+a lot when working with CSS. In the past, I use Delphi. When I am bored [I tinker with assembly](https://github.com/zamronypj/oprsimd/blob/master/simdssevec.pas).
+
+## Statistics
+
+![Zamrony P. Juhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamronypj&show_icons=true)
+
+[![Zamrony P. Juhara StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5855039&layout=compact)](https://stackoverflow.com/users/5855039/zamrony-p-juhara)
 
 ## My books
 
