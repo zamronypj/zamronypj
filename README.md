@@ -24,7 +24,7 @@ a lot when working with CSS. In the past, I use Delphi. When I am bored [I tinke
 
 Android programming book that explains various topics from getting started, creating basic layout view, store data in shared preferences and database operation with SQLite to more advanced topics such as working with 3D graphics with OpenGL ES, custom view, working with Bluetooth etc.
 
-<a href="https://andipublisher.com/produk-panduan-lengkap-pemrograman-android">
+<a href="https://andipublisher.com/produk/detail/panduan-lengkap-pemrograman-android">
 <img src="panduan-lengkap-pemrograman-android.jpg" width="200" alt="Panduan Lengkap Pemrograman Android">
 </a>
 
@@ -33,6 +33,6 @@ Android programming book that explains various topics from getting started, crea
 
 DirectX programming book that discusses from getting started with DirectX components, working with 3D graphics with Direct3D such as rendering 3D primitives. Reading game input device such keyboard, mouse, gamepad and joystick using DirectInput. Audio programming to play multiple sound effects and game music with DirectSound. Also discuss network programming with DirectPlay. Book also discusses terrain rendering and fog and HLSL shader programming.
 
-<a href="https://andipublisher.com/produk-pemrograman-game-3d-dengan-directx">
+<a href="https://andipublisher.com/produk/detail/pemrograman-game-3d-dengan-directx">
 <img src="pemrograman-game-3d-dengan-directx.webp" width="200" alt="Pemrograman Game 3D dengan DirectX">
 </a>
