@@ -3,7 +3,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamronypj.zamronypj)
 
-I am software developer who has interest in web development, database and game development. [My online resume](https://zamronypj.github.io) if you want to hire me.
 I am a software developer with interests in web development, databases, and game development. If you are interested in hiring me, you can find my online resume at [https://zamronypj.github.io](https://zamronypj.github.io).
 
 - 🔭 I’m working on my personal project [Fano Framework](https://fanoframework.github.io), a web framework written with Free Pascal. While developing this project, I learn network and system programming in Linux, FreeBSD and Windows. 
