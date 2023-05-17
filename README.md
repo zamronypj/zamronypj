@@ -1,7 +1,6 @@
 # Hi I am Zamrony 👋
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=zamronypj.zamronypj)
 
 I am a software developer with interests in web development, databases, and game development. If you are interested in hiring me, you can find my online resume at [https://zamronypj.github.io](https://zamronypj.github.io).
 
