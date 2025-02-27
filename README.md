@@ -9,7 +9,7 @@ I am a software developer with interests in web development, databases, and game
 - 🌱 I’m learning and trying to improve my English by writing proper documentation for [Fano Framework documentation](https://github.com/fanoframework/fanoframework.github.io). I wrote two books by the way.
 - 🤔 Ask me about Fano Framework. Sometime I answer question in StackOverflow like [this question](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272).
 - I use Laravel, Slim Framework, Express, AngularJS, vue.js, React.js, Gulp. When I need RDBMS, I use MySQL or MariaDB. I like Flexbox
-a lot when working with CSS. In the past, I use Delphi. When I am bored [I tinker with assembly](https://github.com/zamronypj/oprsimd/blob/master/simdssevec.pas). But right now, on my day job, mostly Golang.
+a lot when working with CSS. ~~In the past~~ Now, I use Delphi. When I am bored [I tinker with assembly](https://github.com/zamronypj/oprsimd/blob/master/simdssevec.pas). But right now, on my day job, mostly Golang.
 
 ## Statistics
 
